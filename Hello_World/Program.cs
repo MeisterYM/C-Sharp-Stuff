@@ -6,6 +6,8 @@ namespace Hello_World {
     {
         static void Main(string[] args)
         {
+
+            //Say hello.
             Console.WriteLine("Hello, World, again!");
         }
     }

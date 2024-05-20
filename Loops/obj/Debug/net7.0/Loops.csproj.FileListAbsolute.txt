@@ -1,0 +1,15 @@
+C:\Users\yanni\Desktop\Random Code\C#\Loops\bin\Debug\net7.0\Loops.exe
+C:\Users\yanni\Desktop\Random Code\C#\Loops\bin\Debug\net7.0\Loops.deps.json
+C:\Users\yanni\Desktop\Random Code\C#\Loops\bin\Debug\net7.0\Loops.runtimeconfig.json
+C:\Users\yanni\Desktop\Random Code\C#\Loops\bin\Debug\net7.0\Loops.dll
+C:\Users\yanni\Desktop\Random Code\C#\Loops\bin\Debug\net7.0\Loops.pdb
+C:\Users\yanni\Desktop\Random Code\C#\Loops\obj\Debug\net7.0\Loops.csproj.AssemblyReference.cache
+C:\Users\yanni\Desktop\Random Code\C#\Loops\obj\Debug\net7.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yanni\Desktop\Random Code\C#\Loops\obj\Debug\net7.0\Loops.AssemblyInfoInputs.cache
+C:\Users\yanni\Desktop\Random Code\C#\Loops\obj\Debug\net7.0\Loops.AssemblyInfo.cs
+C:\Users\yanni\Desktop\Random Code\C#\Loops\obj\Debug\net7.0\Loops.csproj.CoreCompileInputs.cache
+C:\Users\yanni\Desktop\Random Code\C#\Loops\obj\Debug\net7.0\Loops.dll
+C:\Users\yanni\Desktop\Random Code\C#\Loops\obj\Debug\net7.0\refint\Loops.dll
+C:\Users\yanni\Desktop\Random Code\C#\Loops\obj\Debug\net7.0\Loops.pdb
+C:\Users\yanni\Desktop\Random Code\C#\Loops\obj\Debug\net7.0\Loops.genruntimeconfig.cache
+C:\Users\yanni\Desktop\Random Code\C#\Loops\obj\Debug\net7.0\ref\Loops.dll
