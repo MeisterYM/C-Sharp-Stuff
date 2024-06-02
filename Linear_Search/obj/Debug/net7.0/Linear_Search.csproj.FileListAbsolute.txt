@@ -1,0 +1,15 @@
+C:\Users\yanni\Desktop\Random Code\C#\Linear_Search\bin\Debug\net7.0\Linear_Search.exe
+C:\Users\yanni\Desktop\Random Code\C#\Linear_Search\bin\Debug\net7.0\Linear_Search.deps.json
+C:\Users\yanni\Desktop\Random Code\C#\Linear_Search\bin\Debug\net7.0\Linear_Search.runtimeconfig.json
+C:\Users\yanni\Desktop\Random Code\C#\Linear_Search\bin\Debug\net7.0\Linear_Search.dll
+C:\Users\yanni\Desktop\Random Code\C#\Linear_Search\bin\Debug\net7.0\Linear_Search.pdb
+C:\Users\yanni\Desktop\Random Code\C#\Linear_Search\obj\Debug\net7.0\Linear_Search.csproj.AssemblyReference.cache
+C:\Users\yanni\Desktop\Random Code\C#\Linear_Search\obj\Debug\net7.0\Linear_Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yanni\Desktop\Random Code\C#\Linear_Search\obj\Debug\net7.0\Linear_Search.AssemblyInfoInputs.cache
+C:\Users\yanni\Desktop\Random Code\C#\Linear_Search\obj\Debug\net7.0\Linear_Search.AssemblyInfo.cs
+C:\Users\yanni\Desktop\Random Code\C#\Linear_Search\obj\Debug\net7.0\Linear_Search.csproj.CoreCompileInputs.cache
+C:\Users\yanni\Desktop\Random Code\C#\Linear_Search\obj\Debug\net7.0\Linear_Search.dll
+C:\Users\yanni\Desktop\Random Code\C#\Linear_Search\obj\Debug\net7.0\refint\Linear_Search.dll
+C:\Users\yanni\Desktop\Random Code\C#\Linear_Search\obj\Debug\net7.0\Linear_Search.pdb
+C:\Users\yanni\Desktop\Random Code\C#\Linear_Search\obj\Debug\net7.0\Linear_Search.genruntimeconfig.cache
+C:\Users\yanni\Desktop\Random Code\C#\Linear_Search\obj\Debug\net7.0\ref\Linear_Search.dll
