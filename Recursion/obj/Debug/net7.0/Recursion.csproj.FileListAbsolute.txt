@@ -1,0 +1,15 @@
+C:\Users\yanni\Desktop\Random Code\C#\Recursion\bin\Debug\net7.0\Recursion.exe
+C:\Users\yanni\Desktop\Random Code\C#\Recursion\bin\Debug\net7.0\Recursion.deps.json
+C:\Users\yanni\Desktop\Random Code\C#\Recursion\bin\Debug\net7.0\Recursion.runtimeconfig.json
+C:\Users\yanni\Desktop\Random Code\C#\Recursion\bin\Debug\net7.0\Recursion.dll
+C:\Users\yanni\Desktop\Random Code\C#\Recursion\bin\Debug\net7.0\Recursion.pdb
+C:\Users\yanni\Desktop\Random Code\C#\Recursion\obj\Debug\net7.0\Recursion.csproj.AssemblyReference.cache
+C:\Users\yanni\Desktop\Random Code\C#\Recursion\obj\Debug\net7.0\Recursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yanni\Desktop\Random Code\C#\Recursion\obj\Debug\net7.0\Recursion.AssemblyInfoInputs.cache
+C:\Users\yanni\Desktop\Random Code\C#\Recursion\obj\Debug\net7.0\Recursion.AssemblyInfo.cs
+C:\Users\yanni\Desktop\Random Code\C#\Recursion\obj\Debug\net7.0\Recursion.csproj.CoreCompileInputs.cache
+C:\Users\yanni\Desktop\Random Code\C#\Recursion\obj\Debug\net7.0\Recursion.dll
+C:\Users\yanni\Desktop\Random Code\C#\Recursion\obj\Debug\net7.0\refint\Recursion.dll
+C:\Users\yanni\Desktop\Random Code\C#\Recursion\obj\Debug\net7.0\Recursion.pdb
+C:\Users\yanni\Desktop\Random Code\C#\Recursion\obj\Debug\net7.0\Recursion.genruntimeconfig.cache
+C:\Users\yanni\Desktop\Random Code\C#\Recursion\obj\Debug\net7.0\ref\Recursion.dll
