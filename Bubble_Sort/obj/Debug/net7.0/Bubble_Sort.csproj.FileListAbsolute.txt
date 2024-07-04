@@ -1,0 +1,15 @@
+C:\Users\yanni\Desktop\Random Code\C#\Bubble_Sort\bin\Debug\net7.0\Bubble_Sort.exe
+C:\Users\yanni\Desktop\Random Code\C#\Bubble_Sort\bin\Debug\net7.0\Bubble_Sort.deps.json
+C:\Users\yanni\Desktop\Random Code\C#\Bubble_Sort\bin\Debug\net7.0\Bubble_Sort.runtimeconfig.json
+C:\Users\yanni\Desktop\Random Code\C#\Bubble_Sort\bin\Debug\net7.0\Bubble_Sort.dll
+C:\Users\yanni\Desktop\Random Code\C#\Bubble_Sort\bin\Debug\net7.0\Bubble_Sort.pdb
+C:\Users\yanni\Desktop\Random Code\C#\Bubble_Sort\obj\Debug\net7.0\Bubble_Sort.csproj.AssemblyReference.cache
+C:\Users\yanni\Desktop\Random Code\C#\Bubble_Sort\obj\Debug\net7.0\Bubble_Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yanni\Desktop\Random Code\C#\Bubble_Sort\obj\Debug\net7.0\Bubble_Sort.AssemblyInfoInputs.cache
+C:\Users\yanni\Desktop\Random Code\C#\Bubble_Sort\obj\Debug\net7.0\Bubble_Sort.AssemblyInfo.cs
+C:\Users\yanni\Desktop\Random Code\C#\Bubble_Sort\obj\Debug\net7.0\Bubble_Sort.csproj.CoreCompileInputs.cache
+C:\Users\yanni\Desktop\Random Code\C#\Bubble_Sort\obj\Debug\net7.0\Bubble_Sort.dll
+C:\Users\yanni\Desktop\Random Code\C#\Bubble_Sort\obj\Debug\net7.0\refint\Bubble_Sort.dll
+C:\Users\yanni\Desktop\Random Code\C#\Bubble_Sort\obj\Debug\net7.0\Bubble_Sort.pdb
+C:\Users\yanni\Desktop\Random Code\C#\Bubble_Sort\obj\Debug\net7.0\Bubble_Sort.genruntimeconfig.cache
+C:\Users\yanni\Desktop\Random Code\C#\Bubble_Sort\obj\Debug\net7.0\ref\Bubble_Sort.dll
